@@ -1,7 +1,5 @@
-# inventory-app
-AI-assisted coding project to make an inventory using Claude API key for computer vision to identify inventory on a shelf, set min and max for ordering, and a map of inventory room. Useful for small businesses and log for basic auditing used to track and ensure accuracy.
 # 🍜 Yum Thai Inventory
-
+This was AI-assisted coding and README to use as a learning tool to understand API keys, JavaScript, app deployment, and AI limitations.
 **AI‑assisted inventory tracking for a small restaurant — photograph a shelf, confirm the count, know what to reorder.**
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
