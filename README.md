@@ -153,7 +153,7 @@ Issues and pull requests are welcome. For larger changes, open an issue first to
 
 ## 📄 License
 
-Released under the MIT License — see [`LICENSE`](LICENSE). _(Swap this if you prefer a different license.)_
+Released under the MIT License — see [`LICENSE`](LICENSE). 
 
 ---
 
