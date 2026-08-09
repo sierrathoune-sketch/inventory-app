@@ -1,5 +1,5 @@
 # 🍜 Yum Thai Inventory
-This was AI-assisted coding and README to use as a learning tool to understand API keys, JavaScript, app deployment, and AI limitations.
+
 **AI‑assisted inventory tracking for a small restaurant — photograph a shelf, confirm the count, know what to reorder.**
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
@@ -158,3 +158,5 @@ Released under the MIT License — see [`LICENSE`](LICENSE).
 ## 🙏 Acknowledgements
 
 Built as an applied‑AI case study for a family‑owned Thai restaurant. Not affiliated with or endorsed by any vision‑API provider. The traffic‑light confirmation pattern is a deliberate response to the real limits of automated shelf counting — surface uncertainty, keep a human in the loop.
+</br>
+This was AI-assisted coding and README to use as a learning tool to understand API keys, JavaScript, app deployment, and AI limitations.
